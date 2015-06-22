@@ -9,6 +9,8 @@
 	 好用的網站,最讓我驚豔的是近端跟遠端的推送跟執行,幾個小小
 	 的動作節省的大量的人力時間,這門課所想教給我們的東西,我想就
 	 是在"協同"這兩個字上吧...
-openshift連結:[url=https://openshift.redhat.com/app/console/application/5587c34b5973cae405000001-0622test2]https://openshift.redhat.com/app/console/application/5587c34b5973cae405000001-0622test2[/url]
 
-github連結:[url=https://openshift.redhat.com/app/console/application/5587c34b5973cae405000001-0622test2]https://openshift.redhat.com/app/console/application/5587c34b5973cae405000001-0622test2[/url]
+openshift連結:https://openshift.redhat.com/app/console/application/5587c34b5973cae405000001-0622test2
+
+
+github連結:https://openshift.redhat.com/app/console/application/5587c34b5973cae405000001-0622test2
