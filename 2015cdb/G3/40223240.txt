@@ -14,6 +14,6 @@
 
 GITHUB個人倉儲連結:https://github.com/40223240/2015cdb_g3_40223240
 
-OPENSHIFT連結:http://2015cdbg3w17-40223240.rhcloud.com/mygeartest2
+OPENSHIFT連結:http://2015cdbg3w17-40223240.rhcloud.com/threeDgear
 
 第二題:
