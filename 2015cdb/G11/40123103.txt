@@ -27,7 +27,12 @@
 完成分配每週的協同討論整理資訊，提供給其他組員進行參考。
 
 
+第一題：
+我自行繪製兩齒輪嚙合
+github        https://github.com/40123103/w17b_exam
+openshift     http://w17exam-40123103.rhcloud.com/
+
+第二題：
 我與協同組員40123148蔡宗霖與40123210蔡依靜依序完成1、2、3、4、5、6齒輪繪製
-	  
 github        https://github.com/40123148/w17b
 openshift     http://w17-40123148.rhcloud.com/
