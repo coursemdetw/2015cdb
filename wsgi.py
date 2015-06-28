@@ -80,6 +80,12 @@ class Hello(object):
     <!DOCTYPE html> 
     <html>
     <head>
+    <h1>期末考題目:齒輪</h1>
+    <h2>學號:40123151</h2>
+    <h2>姓名:鄭羽</h2>
+
+    <h3><a href="drawspur">個人繪製齒輪</a><br />
+    <h3><a href="drawspur2">雙人繪製齒輪</a><br />
     <meta http-equiv="content-type" content="text/html;charset=utf-8">
     <!-- 載入 brython.js -->
     <script type="text/javascript" src="/static/Brython3.1.0-20150301-090019/brython.js"></script>

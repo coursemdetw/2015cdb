@@ -17,7 +17,7 @@
 <v t="2014fall.20141212095015.1774" a="E"><vh>@path ./</vh>
 <v t="2014fall.20141212095015.1780"><vh>@edit setup.py</vh></v>
 <v t="amd.20150511085257.1"><vh>@edit SUMMARY.md</vh></v>
-<v t="2014fall.20141212095015.1775"><vh>@clean wsgi.py</vh>
+<v t="2014fall.20141212095015.1775" a="E"><vh>@clean wsgi.py</vh>
 <v t="2014fall.20141212095015.1776"><vh>&lt;&lt;declarations&gt;&gt; (wsgi)</vh></v>
 <v t="2014fall.20141212095015.1777" a="E"><vh>class Hello</vh>
 <v t="2014fall.20141212095015.2004"><vh>__init__</vh></v>
@@ -260,6 +260,12 @@ def index(self, guess=None):
 &lt;!DOCTYPE html&gt; 
 &lt;html&gt;
 &lt;head&gt;
+&lt;h1&gt;期末考題目:齒輪&lt;/h1&gt;
+&lt;h2&gt;學號:40123151&lt;/h2&gt;
+&lt;h2&gt;姓名:鄭羽&lt;/h2&gt;
+
+&lt;h3&gt;&lt;a href="drawspur"&gt;個人繪製齒輪&lt;/a&gt;&lt;br /&gt;
+&lt;h3&gt;&lt;a href="drawspur2"&gt;雙人繪製齒輪&lt;/a&gt;&lt;br /&gt;
 &lt;meta http-equiv="content-type" content="text/html;charset=utf-8"&gt;
 &lt;!-- 載入 brython.js --&gt;
 &lt;script type="text/javascript" src="/static/Brython3.1.0-20150301-090019/brython.js"&gt;&lt;/script&gt;
