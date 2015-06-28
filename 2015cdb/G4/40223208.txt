@@ -1,15 +1,21 @@
-�s�g�ɶ�: 2015.06.28 06:05pm
+編寫時間: 2015.06.28 09:17pm
 
-�ǭ��Ǹ�: 40223208
+學員學號: 40223208
 
-�ҵ{�ۧڵ���:90�]�D�ؤ@35���D�ؤG35���D�ؤT20�^
+課程自我評分:90（題目一35＋題目二35＋題目三20）
 
-�ҵ{�߱o:
+課程心得:
 
-��W�o��Ҫ��ɭ�ı�o���������A���]���p�ղժ������Y�٬O�������F�A�ܰ����ۤv�i�H����������{�b�A�]��O���Ǩ�F��F�Aı�o�ܭȱo�C 
+剛上這堂課的時候覺得很難很難，但因為小組組長的關係還是堅持住了，很高興自己可以堅持不放棄到現在，也算是有學到東西了，覺得很值得。 
 
-
+主題一
 
 github:https://github.com/40223208/CDB-Final-
 
 openshift:http://222-40223208.rhcloud.com/
+
+主題二
+
+github:https://github.com/40223231/Final-Exam-with-classmate
+
+openshift:http://text2-40223208.rhcloud.com/mygeartest3
