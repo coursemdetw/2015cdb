@@ -1,26 +1,26 @@
-�Z��:�|�]�G�A
-�m�W:���s��
-�Ǹ�:40223246
+班級:四設二乙
+姓名:蔡孟佑
+學號:40223246
 
-�Ĥ@�D�ӤH����￦X:
+第一題個人齒輪嚙合:
 
-github�s��:https://github.com/40223246/0622cdb-Final-TEST2-1
+github連結:https://github.com/40223246/0622cdb-Final-TEST2-1
 
-openshift�s��:https://openshift.redhat.com/app/console/application/558fe913e0b8cdbb55000054-0622test2
-
-
-�ĤG�D��P����￦X:
-
-�ڻP21�����ߪ@�P�Ǥ@�_����
-
-github�s��:https://github.com/40223246/0622W17test2
-
-openshift�s��:http://test2-40223221.rhcloud.com/
+openshift連結:https:http://0622test2-40223246.rhcloud.com/
 
 
-�ĤT�D�߱o:
+第二題協同齒輪嚙合:
 
-�o���������}�l�ڭ̦��Q�ץX������￦X�]��{���g�X�ӥi�H����,���L�����F15��~80��������,��O���s�ȥ�,�ڸչL�F�ܦh��k���Oif���y�k,�ڰ��F�ܦh�����S��k���\,��O�ڰѦҤF�O��,�q����h�����,�o��k���M�檺�q,�����٬Oı�o�ϥ�if���y�k����o���]�٨�,�u�O�ڤ@���S�����X�өҥH�u�n�Ϊ��歭���;�ڬO�ڭ̲դ�������{�ת�,���ڹ�{���y���u�����O�ܾժ�,�`�`���O�ݰ��ⰵ�@���~���o�p��U��M�Цۤv���խ�,�o��������ڤS�ǤF���֤F,�ڰ��������O�ܧ������ڳ����Τߥh��,�Ʊ�u���i�H���ۤv�h�|�@�I�F��
+我與21號邱立昇同學一起完成
+
+github連結:https://github.com/40223246/0622W17test2
+
+openshift連結:http://test2-40223221.rhcloud.com/
 
 
-�۵�����:85
+第三題心得:
+
+這次的測驗剛開始我們有討論出齒輪的嚙合也把程式寫出來可以執行,不過忽略了15齒~80齒的限制,於是重新糾正,我試過了很多辦法像是if的語法,我做了很多次都沒辦法成功,於是我參考了別組,從表單去限制齒數,這方法雖然行的通,但我還是覺得使用if的語法比較聰明也省事,只是我一直沒有做出來所以只好用表單限制齒數;我是我們組中比較有程度的,但我對程式語言真的不是很擅長,常常都是看高手做一次才懂得如何下手和教自己的組員,這次的測驗我又學了不少了,我做的都不是很完美但我都有用心去學,希望真的可以讓自己多會一點東西
+
+
+自評分數:85
