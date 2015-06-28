@@ -1,6 +1,7 @@
 1.http://2015examq1-40223236.rhcloud.com/
 
-2.
+2.github倉儲:https://github.com/40223250/40223250test
+openshift連結:http://test2-40223250.rhcloud.com/
 
 編寫時間: 2015.06.28 18:00
 
