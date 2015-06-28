@@ -16,9 +16,9 @@
 協同這個課程讓我學到了如何互助幫忙，因為自己是重修生所以起初的時候自己的組員都不認識
 但是隨著大家的合作大家的互助，到現在能夠完成很多的作業，這些都是值得感恩的。
 
-Github：https://github.com/40023154/Finalexam_0627
+Github：https://github.com/40023154/0628
 
-OpenShift：http://0627-40023154.rhcloud.com/index
+OpenShift：http://0628-40023154.rhcloud.com/
 
 
 
