@@ -1,0 +1,16 @@
+1.
+github倉儲:https://github.com/40223211/cadb_g7_w18test
+openshift連結:http://pythonw18test-cadpwu.rhcloud.com/DesignGear
+
+2.
+github偕同倉儲:https://github.com/40223220/worktogether
+openshift連結:http://w16-40223220.rhcloud.com/DesignGear1
+我是與40223220同學做偕同齒輪的。
+3.
+ 編寫時間:2015.06.22
+ 學員學號:40223211
+ 學程自我評分:80
+ 課程心得:
+在期末這幾個禮拜內，讓我對python的使用更加了解在leo裡面新增程式包
+還有在網頁的按鈕設置，解決近端程式的問題，對程式得了解更是加深了
+許多，之後還有相關的課程希望還可以再多多學習。
