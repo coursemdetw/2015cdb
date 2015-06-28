@@ -1,0 +1,12 @@
+1.github      https://github.com/40223202/test2
+  openshift   http://test1-40223202.rhcloud.com/
+2.github      https://github.com/40223202/test2-1
+  openshift   http://test11-40223202.rhcloud.com/
+3.
+編寫時間: 2015.06.22 02:33
+
+學員學號: 40223202
+
+課程自我評分: 90
+
+課程心得:此程式嚙合時會干涉，在修改方面上還需要多多嘗試，會繼續請問此學問，感謝同學的耐心指導，才能順利完成此測驗。
