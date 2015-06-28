@@ -1,0 +1,12 @@
+1.github網址：https://github.com/lexus24/40223224final
+  openshift網址：http://40223224final-40223224.rhcloud.com/
+
+
+2.github網址：https://github.com/lexus42/4022322442test
+  openshift網址：http://4022322442test-40223242.rhcloud.com/
+
+
+心得：經過這次作業，讓我了解如何與組員協同，過程中有關推送的部分一直推不成功，後來才知道要把資料夾裡的東西複製，而不是整個資料夾，後來解決了，有關推送我又更進步了。
+
+
+自評分數：90分

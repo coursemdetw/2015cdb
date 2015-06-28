@@ -1,0 +1,13 @@
+編寫時間: 2015.06.28 22:00
+
+學員學號: 40223243
+
+課程自我評分: 90
+
+課程心得:這次練習讓我更加了解運用協同與組員之間的配合關係。
+第一題是屬於個人部分，把做好的程式git push回去並與openshift連結。
+github：https://github.com/40223243/40223243w17.git
+openshift：http://w17-40223243.rhcloud.com/
+第二題跟組員(40223244)互動，需要把組員的東西git clone下來，修改並回傳。
+github：https://github.com/40223244/cdb-2.git
+openshift：http://cdb2-40223243.rhcloud.com/

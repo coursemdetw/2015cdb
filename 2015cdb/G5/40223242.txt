@@ -1,0 +1,14 @@
+題目二  github網址：https://github.com/lexus42/40223242test
+        openshift網址：http://40223242test-40223242.rhcloud.com/
+
+
+題目二  github網址：https://github.com/lexus42/4022322442test
+        openshift網址：http://4022322442test-40223242.rhcloud.com/
+
+
+
+心得：這次的作業我是要把別人加到自己的倉儲作為協同者，但過程中一直無法將組員加進協同者，後來詢問同學才知道要到信箱收信才算正式協同者，讓我受益良多。
+
+
+
+自評分數：90分
