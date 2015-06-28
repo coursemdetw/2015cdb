@@ -4,7 +4,7 @@ Openshift連結:http://w17-40223219.rhcloud.com/threeDgear
 Github連結:https://github.com/40223219/w17_cdbtest/tree/master
 
 2.
-Openshift連結:
+Openshift連結: http://cdbg7w18test-40223235.rhcloud.com/
 Github連結: https://github.com/40223235/cdb-g7-w18test
 
 3.編寫時間:2015.06.23 15:10
