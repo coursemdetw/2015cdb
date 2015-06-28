@@ -2,11 +2,19 @@
 
 學員學號: 40223239
 
-課程自我評分:60
+課程自我評分:90
+
+題目一
 
 github: https://github.com/40223239/cdb0622
 
 openshift: http://cdb0622-40223239.rhcloud.com/threeDgear
+
+題目二
+
+github:https://github.com/40223225/2015-cdb-g3-test2-
+
+openshift: http://cdbg3test2-40223225.rhcloud.com/mygeartest3
 
 課程心得:藉由程式組立來完成機械設計已經漸漸形成了一個趨勢，而在一次次的協同課程
 中也體驗到了協同的重要性，對於以後兩者都是重要而必需的要素。
