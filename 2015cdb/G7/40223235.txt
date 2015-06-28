@@ -1,8 +1,11 @@
-﻿Github：https://github.com/40223235/cdb-g7-w18test
+﻿第一小題與第二小題結合在同一個github 和openshift裡
 
-OpenShift：
+Github：https://github.com/40223235/cdb-g7-w18test
 
-編寫時間: 2015.06.26 20；38
+OpenShift：http://cdbg7w18test-40223235.rhcloud.com/
+
+
+編寫時間: 2015.06.27 23：38
 
 學員學號: 40223235
 
