@@ -1,0 +1,15 @@
+40223214  吳文廷
+
+主題一 :
+
+https://github.com/40223214/20150622.git
+
+https://openshift.redhat.com/app/console/application/5587c6544382ecb73f000037-20150622
+
+
+
+心得 : 這次要做齒輪嚙合，要改一些尺寸，有跟同學討論後做出來，然後推到github，這個步驟就簡單多了，因為之前做過很多次，已經很熟悉了，openshift也是熟能生巧，很快就完成了。
+
+
+
+自評分數 : 50
