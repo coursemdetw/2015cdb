@@ -1,8 +1,8 @@
 Github：https://github.com/40123142/finalexam
 
-OpenShift：final-cadp13ag9.rhcloud.com
+OpenShift：http://finalexam-cadp13ag9.rhcloud.com/
 
-編寫時間: 2015.06.23
+編寫時間: 2015.06.28
 
 學員學號: 40123142
 
