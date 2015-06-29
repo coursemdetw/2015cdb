@@ -1,12 +1,16 @@
-Github：
+Github：https://github.com/40123151ChengYu/finalexam
 
-OpenShift：
+OpenShift：http://finalexam-40123151.rhcloud.com/
 
-編寫時間: 2015.06.22
+編寫時間: 2015.06.29
 
 學員學號: 40123151
 
-課程自我評分:88
+課程自我評分:
+題目1:30
+題目2:35
+題目3:20
+85
 
 課程心得:
 已經第二次上這門課了，
